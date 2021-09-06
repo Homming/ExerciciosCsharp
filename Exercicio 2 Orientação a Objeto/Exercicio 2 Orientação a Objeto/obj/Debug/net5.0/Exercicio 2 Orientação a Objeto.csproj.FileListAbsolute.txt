@@ -1,0 +1,16 @@
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.exe
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.deps.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.runtimeconfig.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.runtimeconfig.dev.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\ref\Exercicio 2 Orientação a Objeto.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\bin\Debug\net5.0\Exercicio 2 Orientação a Objeto.pdb
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.csproj.AssemblyReference.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.AssemblyInfoInputs.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.AssemblyInfo.cs
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\ref\Exercicio 2 Orientação a Objeto.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.pdb
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio 2 Orientação a Objeto\Exercicio 2 Orientação a Objeto\obj\Debug\net5.0\Exercicio 2 Orientação a Objeto.genruntimeconfig.cache
