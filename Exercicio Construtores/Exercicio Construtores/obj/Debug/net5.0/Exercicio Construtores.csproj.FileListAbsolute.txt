@@ -1,0 +1,16 @@
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.csproj.AssemblyReference.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.AssemblyInfoInputs.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.AssemblyInfo.cs
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.exe
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.deps.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.runtimeconfig.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.runtimeconfig.dev.json
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\ref\Exercicio Construtores.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\bin\Debug\net5.0\Exercicio Construtores.pdb
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\ref\Exercicio Construtores.dll
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.pdb
+C:\Users\Nicholas Torres\Desktop\Exercicios C#\Exercicio Construtores\Exercicio Construtores\obj\Debug\net5.0\Exercicio Construtores.genruntimeconfig.cache
